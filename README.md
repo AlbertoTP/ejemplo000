@@ -6,6 +6,10 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 ## Notas
 Pueden hacer lo que quieran...
 
+
+# Practicando Markdown
+
+
 # h1
 ## h2
 ### h3
@@ -15,8 +19,8 @@ Pueden hacer lo que quieran...
 Un gran **poder** requiere una gran *responsabilidad*
 > Ben Parker
 
-*italica* = \* o \_
-_italica_
+*italica* = \* o \_  
+_italica_  
 **negrita** = \** o \__
 
 1. item
@@ -37,6 +41,13 @@ supported
 - [x] list syntax required (any 
 unordered or ordered list 
 supported)
+
+```javascript
+function test() {
+ console.log("look ma’, no spaces");
+}
+```
+
 
 First Header | Second Header
 ------------ | -------------
